@@ -3,12 +3,12 @@
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ESSaveliev)
 [![](https://img.shields.io/badge/googlescholar-%234285F4.svg?&style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=SJi-EFwAAAAJ&hl=en)
 
-I'm a Research Engineer and PhD student in the [van der Schaar lab](https://www.vanderschaar-lab.com/) [![](https://img.shields.io/badge/github%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white)](https://github.com/vanderschaarlab), a world-leading machine learning for medicine research group at the [Department of Applied Mathematics and Theoretical Physics, University of Cambridge](https://www.damtp.cam.ac.uk/).
+[![](https://img.shields.io/badge/github%20-%23121011.svg?&style=flat&logo=github&logoColor=white&label=vanderschaarlab)](https://github.com/vanderschaarlab)
+
+I'm a Research Engineer and PhD student in the [van der Schaar lab](https://www.vanderschaar-lab.com/), a world-leading machine learning for medicine research group at the [Department of Applied Mathematics and Theoretical Physics, University of Cambridge](https://www.damtp.cam.ac.uk/).
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=DrShushen&count_private=true&show_icons=true&theme=default" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrShushen&theme=default&show_icons=true&layout=compact" />
-
-[![](https://img.shields.io/badge/github%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white)](https://github.com/vanderschaarlab)
 
 <!--
 **DrShushen/DrShushen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
