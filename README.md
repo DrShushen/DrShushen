@@ -7,6 +7,7 @@
 
 I'm a Research Engineer and PhD student in the [van der Schaar lab](https://www.vanderschaar-lab.com/), a world-leading machine learning for medicine research group at the [Department of Applied Mathematics and Theoretical Physics, University of Cambridge](https://www.damtp.cam.ac.uk/).
 
+<img src="https://algora.io/og/user/DrShushen" />
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=DrShushen&count_private=true&show_icons=true&theme=default" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrShushen&theme=default&show_icons=true&layout=compact" />
 
